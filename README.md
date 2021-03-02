@@ -44,3 +44,7 @@ shell script for MH-Z19 via uart
 
 ```
 
+
+## known limitations
+* Ignoring checksum of return value
+
